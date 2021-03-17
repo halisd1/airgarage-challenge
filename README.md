@@ -3,7 +3,11 @@ AirGarage Search API
 In the project directory, you can run:
 
 ### `npm install`
+
+### Terminal 1: Start Client Server
 ### `npm run client`
+
+### Terminal 2: Start NodeJS Server
 ### `npm run server`
 
 Runs the app in the development mode.\
